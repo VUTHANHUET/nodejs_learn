@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VUTHANHUET/nodejs_learn.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VUTHANHUET/nodejs_learn/issues"
+  },
+  "homepage": "https://github.com/VUTHANHUET/nodejs_learn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
